@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{660:function(t,n,o){var c=o(15),r=Math.ceil,w=Math.floor;c({target:"Math",stat:!0},{trunc:function(t){return(t>0?w:r)(t)}})}}]);
