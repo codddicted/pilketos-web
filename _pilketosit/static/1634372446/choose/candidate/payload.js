@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/choose/candidate", {data:[{}],fetch:{},mutations:[["General\u002FSET_FIRST_TIME_LOADING",true]]});
