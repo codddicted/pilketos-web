@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{671:function(t,n,r){"use strict";var e=r(50),o=r(149),c=r(86),w=r(93),f=r(146);e&&(f(Array.prototype,"lastItem",{configurable:!0,get:function(){var t=c(this),n=w(t);return 0===n?void 0:t[n-1]},set:function(t){var n=c(this),r=w(n);return n[0===r?0:r-1]=t}}),o("lastItem"))}}]);

@@ -1,0 +1,17 @@
+version: '3'
+name: 'pilketos-frontend'
+networks:
+  app-network:
+    driver: bridge
+services:
+  nginx:
+    container_name: nginx-frontend
+    image: nginx-frontend
+    restart: always
+    build:
+      context: .
+    ports:
+      - '80:80'
+      - '443:443'
+    networks:
+      - app-network
